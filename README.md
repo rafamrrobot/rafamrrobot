@@ -5,7 +5,6 @@
 - 🌱 Estou aprendendo ferramentas como Bootstrap, Sass , React e NodeJs.
 - 🤔 preocurando ajuda para conseguir projetos open source para contribuir.
 - 💬 entre em contato pelo email rafamrrobot@gmail.com
-- ⚡ Fun fact: ...
 
 <div>
   <a href="https://github.com/rafamrrobot">
