@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/rafamrrobot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamrrobot&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamrrobot&layout=compact&langs_count=16&theme=yeblu"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=rafamrrobot&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamrrobot&layout=compact&langs_count=16&theme=yeblu"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -24,7 +24,7 @@
   
 ##
   
-<div style="display: inline_block">
+<div>
   <a href="https://www.instagram.com/rafa_mrrobot/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/rafa_mr_robot" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafamrrobot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
