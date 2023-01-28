@@ -1,8 +1,8 @@
 ### Olá eu sou o Rafa Alves - desenvolvedor front-end 👋
 
 - 🔭 Atualmente estou trabalhando com desenvolvimento web.
-- 💻 Tenho conhecimento de HTML5 , CSS3 e Javascript
-- 🌱 Estou aprendendo ferramentas como Bootstrap, Sass , React e NodeJs.
+- 💻 Tenho conhecimento de HTML5 , CSS3, Bootstrap, Sass e Javascript
+- 🌱 Estou aprendendo ferramentas como React e NodeJs.
 - 🤔 preocurando ajuda para conseguir projetos open source para contribuir.
 - 💬 entre em contato pelo email rafamrrobot@gmail.com
 
