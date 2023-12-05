@@ -1,4 +1,4 @@
-### Olá eu sou o Rafa Alves - desenvolvedor front-end 👋
+GIT ### Olá eu sou o Rafa Alves - desenvolvedor front-end 👋
 
 - 🔭 Atualmente estou trabalhando com desenvolvimento web.
 - 💻 Tenho conhecimento de HTML5 , CSS3, Bootstrap, Sass , Javascript e React.
@@ -30,6 +30,5 @@
 </div>
   
   
-  ![Snake animation](https://github.com/rafamrrobot/rafamrrobot/blob/output/github-contribution-grid-snake.svg)
 
 
