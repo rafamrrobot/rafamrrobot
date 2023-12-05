@@ -5,7 +5,12 @@ GIT ### Olá eu sou o Rafa Alves - desenvolvedor front-end 👋
 - 🌱 Estou aprendendo ferramentas como Mysql e NodeJs.
 - 🤔 preocurando ajuda para conseguir projetos open source para contribuir.
 - 💬 entre em contato pelo email rafamrrobot@gmail.com
-
+- 
+<div>
+  <a href="https://github.com/rafamrrobot">
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=rafamrrobot&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamrrobot&layout=compact&langs_count=16&theme=yeblu"/>
+</div>
 
   
 <div style="display: inline_block"><br>
